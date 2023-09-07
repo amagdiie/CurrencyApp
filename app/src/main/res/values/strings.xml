@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">CurrencyApp</string>
+    <string name="STR_TO">To</string>
+    <string name="STR_FROM">From</string>
+    <string name="STR_DETAILS">Details</string>
+</resources>
